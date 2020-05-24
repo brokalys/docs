@@ -69,7 +69,7 @@ A public, static [data] database is also available on GitHub. It contains variou
 
 
 [Matiss Janis Aboltins]: https://mja.lv
-[map-app]: https://github.com/brokalys/map
+[map-app]: https://github.com/brokalys/map-app
 [pinger-app]: https://github.com/brokalys/pinger-app
 [unsubscribe-app]: https://github.com/brokalys/unsubscribe-app
 [homepage]: https://github.com/brokalys/homepage
